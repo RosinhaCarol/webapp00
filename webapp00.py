@@ -13,8 +13,8 @@ st.header("criando meu site")
 st.subheader("Bem vindos!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Mackenzie 23`")
 
-st.info("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.info("")
 
-st.warning("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.warning("")
